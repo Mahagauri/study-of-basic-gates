@@ -81,7 +81,8 @@ endmodule
  Developed by:Mahagauri.P Register Number: 24901190
  
 **Logic symbol & Truthtable**
-https://github.com/user-attachments/assets/4701aae4-9e4f-4be7-8a91-b417c5af58c2
+https://github.com/user-attachments/assets/341d379d-2d64-4569-b715-2fa39f5468ef
+
 
 
 **RTL realization Output:** 
