@@ -78,7 +78,7 @@ assign f6=a^b;
 assign f7=~(a^b);
 endmodule
 
- Developed by:Muralidar.P Register Number: 24900233
+ Developed by:Mahagauri.P Register Number: 24901190
  
 **Logic symbol & Truthtable**
 https://github.com/user-attachments/assets/4701aae4-9e4f-4be7-8a91-b417c5af58c2
