@@ -81,16 +81,19 @@ endmodule
  Developed by:Mahagauri.P Register Number: 24901190
  
 **Logic symbol & Truthtable**
-https://github.com/user-attachments/assets/341d379d-2d64-4569-b715-2fa39f5468ef
+![image](https://github.com/user-attachments/assets/d58c8ac0-3f47-49dd-896c-aa0049e586eb)
+
 
 
 
 **RTL realization Output:** 
-https://github.com/user-attachments/assets/5335b12f-6430-4e49-bd9b-18e39f59d31a
+![image](https://github.com/user-attachments/assets/83f4ec09-6b54-4b18-8b95-e4f6725b2ce3)
+
 
 
 **RTL**
-https://github.com/user-attachments/assets/4ba786e1-10b2-4a8a-a2b8-bb9ff66be067
+![image](https://github.com/user-attachments/assets/3325e798-5559-4397-a22c-8688afe4ff62)
+
 
 
 **Result:**
